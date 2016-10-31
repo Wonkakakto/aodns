@@ -1,0 +1,2 @@
+# aodns
+share remote ip
